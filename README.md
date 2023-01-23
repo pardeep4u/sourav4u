@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sourav4u
-- 👀 I’m interested in Python , Djnago and also to explore new things.
-- 🌱 I’m currently learning HTML, SCSS and javaScript.
+- 👋 Hi, I’m Pardeep Kumar (```@sourav4u```)
+- 👀 I’m a Full Stack Developer . Mainly Focused On Node.js , Next.js.
 - 💞️ I’m looking to collaborate on Web devlopment.
 
 <!---
